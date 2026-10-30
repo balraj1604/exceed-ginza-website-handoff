@@ -4,6 +4,10 @@
 
 Latest Version B, packaged 30 October 2026. The website opens in Safari and other browsers without a ChatGPT account.
 
+## Reviewing or improving the design?
+
+**[Ryo — start here](START-HERE-RYO.md)** for the review brief, source material and instructions to submit design changes through a pull request.
+
 ## Everything in one place
 
 | Part | Contents |
